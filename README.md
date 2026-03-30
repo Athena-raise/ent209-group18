@@ -70,13 +70,13 @@ Expanding to 5+ functions (heart rate, diet, AI advice). Rejected to avoid over-
 
 ## Individual Contribution 
 ### Yiqing Qiang
-I built the team’s SharePoint Dev Log and set sharing permissions. I learned Futures Thinking to stress-test our app’s long-term viability, which taught me to anticipate user and privacy challenges early.
+I built the team’s SharePoint Dev Log and set sharing permissions. I learned Futures Thinking to stress-test our app’s long-term viability, which taught me to anticipate user and privacy challenges early. see this link:https://xjtlums-my.sharepoint.com/:f:/g/personal/yiqing_qiang23_student_xjtlu_edu_cn/IgC0i-n0NBo8QoLWFR5WfG1HARFV-UP202CEe7ScjI_kqug?e=sPSETJ
 
 ### Jiaying Wu
 I conducted in-depth competitor research, analyzing 3 top health apps to define our unique value. I learned how to identify market gaps and align features with user needs, critical for our app’s success.
 
 ### Yu Pei
-I established and managed the team’s GitHub repository, configured access permissions for all members, and provided guidance on Git usage. I also participated in feature prioritization and helped organize feedback to support project scope definition.
+I established and managed the team’s GitHub repository, configured access permissions for all members, and provided guidance on Git usage. I also participated in feature prioritization and helped organize feedback to support project scope definition. see this limk:https://xjtlums-my.sharepoint.com/:b:/g/personal/yu_pei23_student_xjtlu_edu_cn/IQCPo8ZGeL3ATIv1ulJoPK5YAWpa-ynTv70R3FEe98tlmJU?e=3GCnP5
 
 ### Xiaoyi Zhu
 I helped brainstorm the app’s system architecture and drafted a data flow diagram. I learned how to connect frontend data to external APIs and gained insight into technical planning for health apps.
