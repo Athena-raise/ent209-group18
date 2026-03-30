@@ -6,7 +6,8 @@ dietary advice) into a working prototype with a clean dashboard and reliable API
 This is a lightweight health tracking application inspired by Huawei Health. It focuses on stable, easy-to-use core health monitoring functions to help users visualize daily activities, sleep quality, and personal health status.
 
 ## Kanban Board
-![Kanban Board]((https://github.com/Athena-raise/ent209-group18/blob/main/%E6%88%AA%E5%B1%8F2026-03-30%20%E4%B8%8B%E5%8D%889.39.16.png))
+https://github.com/Athena-raise/ent209-group18/blob/main/%E6%88%AA%E5%B1%8F2026-03-30%20%E4%B8%8B%E5%8D%889.39.16.png
+![Kanban Board](https://github.com/Athena-raise/ent209-group18/blob/main/%E6%88%AA%E5%B1%8F2026-03-30%20%E4%B8%8B%E5%8D%889.39.16.png)
 see this link for more detail: https://xjtlums-my.sharepoint.com/:b:/g/personal/yu_pei23_student_xjtlu_edu_cn/IQCPo8ZGeL3ATIv1ulJoPK5YAWpa-ynTv70R3FEe98tlmJU?e=tFhjmc
 
 ## Project Status
