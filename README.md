@@ -1,5 +1,7 @@
 # ent209-group18 - Tracking Health App (Huawei Health Style)
-
+#Sprint goal
+Build and integrate the three Must-have features (step counter, heart rate visualization, AI
+dietary advice) into a working prototype with a clean dashboard and reliable API data flow.
 ## App Introduction
 This is a lightweight health tracking application inspired by Huawei Health. It focuses on stable, easy-to-use core health monitoring functions to help users visualize daily activities, sleep quality, and personal health status.
 
