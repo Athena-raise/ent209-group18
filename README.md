@@ -1,5 +1,5 @@
 # ent209-group18 - Tracking Health App (Huawei Health Style)
-#Sprint goal
+# Sprint goal
 Build and integrate the three Must-have features (step counter, heart rate visualization, AI
 dietary advice) into a working prototype with a clean dashboard and reliable API data flow.
 ## App Introduction
