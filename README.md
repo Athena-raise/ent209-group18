@@ -1,11 +1,32 @@
 # ent209-group18 - Tracking Health App (Huawei Health Style)
-# Sprint goal
+## Sprint goal
 Build and integrate the three Must-have features (step counter, heart rate visualization, AI
 dietary advice) into a working prototype with a clean dashboard and reliable API data flow.
 ## App Introduction
 This is a lightweight health tracking application inspired by Huawei Health. It focuses on stable, easy-to-use core health monitoring functions to help users visualize daily activities, sleep quality, and personal health status.
 
----
+## Kanban Board
+
+### To Do
+- Finalize Project Brief & confirm sprint goal
+- Complete user story sorting
+- Design UI wireframes (dashboard, step, sleep pages)
+- Update Week 5 Dev Log & finish PRD
+
+### Doing
+- Build front-end page framework
+- Improve system architecture
+- Prepare for AI module access
+- Optimize GitHub branch rules
+
+### Done
+- Set up team GitHub repository & access permissions
+- Conduct competitor research for health apps
+- Create SharePoint Dev Log & set permissions
+- Draft system architecture & data flow diagram
+- Prioritize MVP features using MoSCoW
+
+see this link: https://xjtlums-my.sharepoint.com/:b:/g/personal/yu_pei23_student_xjtlu_edu_cn/IQCPo8ZGeL3ATIv1ulJoPK5YAWpa-ynTv70R3FEe98tlmJU?e=tFhjmc
 
 ## Project Status
 **ON TRACK**
