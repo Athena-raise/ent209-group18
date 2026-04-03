@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tracking Health App Prototype</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+        body { background: #f5f5f5; padding: 2rem; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #00A86B; margin-bottom: 1.5rem; text-align: center; }
+        .health-card { background: #f0f9f4; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem; }
+        .btn { 
+            display: block; 
+            width: 100%; 
+            padding: 1rem; 
+            background: #00A86B; 
+            color: white; 
+            border: none; 
+            border-radius: 8px; 
+            font-size: 1.1rem; 
+            cursor: pointer; 
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tracking Health App</h1>
+        <div class="health-card">
+            <h3>Today's Health Status</h3>
+            <p>Step Count: <span id="stepCount">0</span></p>
+            <p>Heart Rate: <span id="heartRate">--</span> bpm</p>
+            <button class="btn" id="updateBtn">Update Health Data</button>
+        </div>
+    </div>
+
+    <script>
+        // 给按钮绑定点击事件，用户点击即可更新健康数据
+        document.getElementById('updateBtn').addEventListener('click', () => {
+            // 模拟真实健康数据
+            document.getElementById('stepCount').textContent = Math.floor(Math.random() * 5000 + 3000);
+            document.getElementById('heartRate').textContent = Math.floor(Math.random() * 20 + 60);
+            alert('Health data updated successfully! ✅');
+        });
+    </script>
+</body>
+</html>
